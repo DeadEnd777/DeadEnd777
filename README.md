@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darwin Granados</h1>
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=835065955919836962" height="273" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://assets.pinterest.com/ext/embed.html?id=835065955919836962)">
 
 <h3 align="center">A passionate FullStack developer from Colombia</h3>
 
