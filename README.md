@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frameworks and courses, etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeadEnd777](https://github.com/DeadEnd777)
+- 👨‍💻 All of my projects are available at https://github.com/DeadEnd777?tab=repositories
 
 - 💬 Ask me about **react, django, y .netcore**
 
