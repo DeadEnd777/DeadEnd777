@@ -4,25 +4,47 @@
 </div>
 
 
-<h3 align="center">A passionate FullStack developer from Colombia</h3>
-
-- 🔭 I’m currently working on [Consumo_API_Vite_React_JsonServer_AxioConsumo_API_Vite_React_JsonServer_Axio](https://github.com/DeadEnd777/Consumo_API_Vite_React_JsonServer_Axio)
+<h3 align="center">A passionate Backend developer from Colombia</h3>
+)
 
 - 🌱 I’m currently learning **Frameworks and courses, etc.**
 
 - 👨‍💻 All of my projects are available at https://github.com/DeadEnd777?tab=repositories
 
-- 💬 Ask me about **react, django, y .netcore**
+- 💬 Ask me about **Django and Springboot**
 
 - 📫 How to reach me **darwingranados96@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dead.end.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dead.end.exe" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">}
+<a href="https://www.linkedin.com/in/darwin-david-granados-martinez-104036248/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darwin-david-granados-martinez-104036248/" height="40" width="50" /></a>
+<a href="https://instagram.com/dead.end.exe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dead.end.exe" height="40" width="50" /></a>
+</p><br>
+
+## ⚡ Technologies
+
+### :speech_balloon: Languages
+
+| <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="python" title="python" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+
+### :floppy_disk: Databases
+
+| <img title="Mysql" alt="Mysql" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> | <img title="SqlServer" alt="SqlServer" width="55px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+
+### 🖼️ Frameworks & libraries
+
+| <img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | <img title="Django" alt="Django" width="55px" src="https://www.svgrepo.com/show/353657/django-icon.svg"> |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+
+### :wrench: Tools
+
+| <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
